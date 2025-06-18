@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# Others
+*.log
+*.tmp
+
+# ASP.NET secrets
+appsettings.Development.json
